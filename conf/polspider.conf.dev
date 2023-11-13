@@ -1,0 +1,18 @@
+{
+    "host": "192.168.1.20",
+    "user": "*****",
+    "password": "*****",
+    "database": "pricefiles",
+    "table": "",
+    "headless":false,
+    "DealerNumber": "******",
+    "Email": "*******@*******.***",
+    "Password": "**************",
+    "StartPage": "https://www.polarisdealers.com/default.asp",
+    "KitCollect": true,
+    "SubstitutionCollect": true,
+    "FitmentCollect": true,
+    "ScanType": "full",
+    "Filepath": "",
+    "Debug":true
+}

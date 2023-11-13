@@ -1,0 +1,27 @@
+{
+  "name": "polarisclient",
+  "version": "1.0.0",
+  "description": "Polaris client get data for part from Polaris",
+  "main": "polspider.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oleg578/polarisclient.git"
+  },
+  "author": "Nahornyi Oleh",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/oleg578/polarisclient/issues"
+  },
+  "homepage": "https://github.com/oleg578/polarisclient#readme",
+  "dependencies": {
+    "md5": "^2.2.1",
+    "mysql2": "^1.6.5",
+    "puppeteer": "^1.15.0"
+  }
+}

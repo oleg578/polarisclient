@@ -1,0 +1,6 @@
+node_modules/
+img/*
+test/*
+doc/*
+conf/polspider.conf
+pswatch
