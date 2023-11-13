@@ -23,11 +23,3 @@ Polaris client get data for part from Polaris
 enabled         all - kit, fitment, substitution
 
 scan mode       --scan-update
-
-
-
-### Server
-
-fmtpf.com
-
-database pricefiles
